@@ -1,35 +1,24 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+### FOTO DE PRESENTACION 
+<img src="https://user-images.githubusercontent.com/129340680/229311913-ffe584d8-33c9-4f30-9b39-d3da9030187a.jpeg" width="300" height="300">
 
-Bienvenidos a
-# Programación con objetos I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+PROGRAMACION CON OBJETOS I - UNIVERSIVAD DE HURLINGHAM
+# PRESENTACION DE SILVINA ALVAREZ
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+_Ingreso a la Universidad de Hurlingham: MARZO/2022_
+## _Materias Aprobadas:_
+1. Introducción a la Lógica y Problemas Computacionales
+2. Matemática  para Informática I
+3. Nuevos Entornos Y Lenguajes
+4. Organización de Computadoras I
+5. Matemática  para Informática II
+6. Programación Estructurada
+7. Base de Datos
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+## _Otros Intereses:_
+- Paseos al aire libre
+- Running ( meta pendiente, algún día correr los 42km de Buenos Aires)
+- Amo a mi perro Aquiles
+- Viajar
+- Dibujar y pintar (otro pendiente, aprender cerámica)
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
